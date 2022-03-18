@@ -36,5 +36,6 @@ For example:
 Test
 ----
 Please run the command:
-.. apt install tmate
+.. code-block::
+  apt install tmate
 
