@@ -32,3 +32,9 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+
+Test
+----
+Please run the command:
+.. apt install tmate
+
